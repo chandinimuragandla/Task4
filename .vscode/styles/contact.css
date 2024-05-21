@@ -1,0 +1,249 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    height: auto;
+    width: 100%;
+}
+.ad21 .image img{
+    height: 300px;
+    margin-top: 50px;
+    width: 100%;
+}
+.parent{
+    height: auto;
+    width: 100%;
+   
+   margin-top: 20px;
+    display: flex;
+    margin-left: 50px;
+}
+.child1{
+    height: 250px;
+    width: 300px;
+   
+   background-color: aliceblue;
+    margin: 15px;
+    margin-left: 100px;
+}
+.child2{
+    height: 250px;
+    width: 300px;
+  
+    background-color: aliceblue;
+    margin: 15px;
+}
+.child3{
+    height: 250px;
+    width: 300px;
+   
+   background-color:aliceblue;
+    margin: 15px;
+}
+ion-icon{
+    height: 50px;
+    width: 50px;
+
+    color:#004077;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+h4{
+    margin-left: 50px;
+    font-family: "Roboto",serif;
+    margin-top: 20px;
+}
+h5{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family: "Roboto",serif;
+}
+
+
+/*.put {
+    height: 80vh;
+    place-items: center;
+    align-items: center;
+    background-color: rgb(89, 172, 255);
+}*/
+.put .putt {
+    display: flex;
+    margin: 100px 10%;
+    place-items: center;
+    align-items: center;
+}
+.put .put1 {
+    background-color: blue;
+    margin-top: 50px;
+    margin-left: 550px;
+    height: 500px;
+    width: 45%;
+    padding: 50px;
+    place-items: center;
+    align-items: center;
+}
+.put .put1 h4 {
+    margin-top: 10px;
+    padding: 10px 0;
+    font-size: 14px;
+    color: brown;
+}
+.put .put1 h1 {
+    padding: 10px 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+.put .put1 .put11 .put111 {
+    display: inline-flex;
+    margin: 10px;
+}
+.put .put1 .put11 .put111 input {
+    margin: 10px 1px;
+    margin-left: 10px;
+    font-size: large;
+    padding: 8px;
+    width: 120%;
+    background-color: rgb(228, 242, 255);
+    border: none;
+    outline: none;
+    color: rgb(3, 3, 3);
+    border-radius: 2px;
+}
+.put .put1 .put11 button {
+    width: 90%;
+    margin-top: 15px;
+    margin-left: 15px;
+    height: 30px;
+    background-color: rgb(38, 118, 255);
+    border: none;
+    transition: all 0.5s ease;
+}
+.put .put1 .put11 button:hover {
+    background-color: blueviolet;
+}
+.put .put1 .put11 button a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+.put .put1 .put11 textarea{
+    width: 90%;
+    height: 100px;
+    background-color: rgb(228, 242, 255);
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.get {
+    height: 80vh;
+    place-items: center;
+    align-items: center;
+    background-color: rgb(89, 172, 255);
+}
+.get .gett {
+    display: flex;
+    margin: 100px 10%;
+    place-items: center;
+    align-items: center;
+}
+.get .get1 {
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 30px;
+    height: 400px;
+    width: 60%;
+    padding: 50px;
+    place-items: center;
+    align-items: center;
+}
+.get .get1 h4 {
+    margin-top: 10px;
+    padding: 10px 0;
+    font-size: 14px;
+    color: brown;
+}
+.get .get1 h2 {
+    padding: 10px 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+.get .get1 .get11 .get111 {
+    display: inline-flex;
+    margin: 10px;
+}
+.get .get1 .get11 .get111 input {
+    margin: 10px 1px;
+    margin-left: 10px;
+    font-size: large;
+    padding: 8px;
+    width: 120%;
+    background-color: rgb(228, 242, 255);
+    border: none;
+    outline: none;
+    color: rgb(3, 3, 3);
+}
+.get .get1 .get11 button {
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 15px;
+    height: 30px;
+    background-color: rgb(38, 118, 255);
+    border: none;
+    transition: all 0.5s ease;
+}
+.get .get1 .get11 button:hover {
+    background-color: blueviolet;
+}
+.get .get1 .get11 button a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+.papblu{
+    height: 400px;
+    width: 36%;
+    background-color: #004077;
+    margin-top: 50px;
+
+}
+.papblu h1{
+    color: white;
+ }
+ .papblu ion-icon{
+    color:white;
+    height: 40px;
+    width: 30px;
+    margin-left: 50px;
+    margin-top: 30px;
+ }
+ h3{
+    color:white;
+    margin-left: 150px;
+    margin-top: -30px; 
+ }
+ .papblu p{
+ color: white;
+ margin-left:150px ;
+ }
+ footer{
+    height: 50px;
+    width:100%;
+    background-color: black;
+    color:white;
+    padding: 50px; 
+ }
+ .log ion-icon{
+    margin-left: 15px;
+    color: rgb(41, 41, 100);
+ }
+ .log {
+    margin-left: 1000px;
+    margin-top: -100px;
+ }

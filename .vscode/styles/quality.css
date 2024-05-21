@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    height: auto;
+    width: 100%;
+}
+.ad21 .image img{
+    height: 300px;
+    margin-top: 50px;
+    width: 100%;
+}
+._ad22{
+   margin: 50px; 
+   font-size: 20px;
+}

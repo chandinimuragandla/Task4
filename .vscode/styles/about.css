@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.container{
+    height: 1000px;
+    width: 100%;
+}
+._ad20{
+    height: 50px;
+    width: 100%;
+    background-color: #004077;
+    margin-top: -15px;
+    display: flex;
+}
+.info ion-icon{
+    color:white;
+    margin-left: 100px;
+   
+}
+.info h5{
+    color:white;
+    margin-left: 100px;
+    
+    
+}
+.call ion-icon{
+    color: white;
+}
+.call h5{
+ color: white;
+ margin-left: 10px;
+}
+.sched{
+    color: white;
+    
+}
+.sched h5{
+    color: white;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.cons{
+    margin-left: 10px;
+    margin-top: 18px;
+}
+hr{
+    color:#1273eb;
+}
